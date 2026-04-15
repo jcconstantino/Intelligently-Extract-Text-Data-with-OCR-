@@ -36,3 +36,6 @@ It automatically extracts text and structured data from uploaded documents and s
 
 ```text
 User Upload → S3 Bucket → Lambda Trigger → Textract OCR → DynamoDB Storage
+
+
+https://github.com/jcconstantino/Intelligently-Extract-Text-Data-with-OCR-/blob/main/image.png
